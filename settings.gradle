@@ -1,0 +1,1 @@
+include ':app', ':huelin', ':huelin-discovery-android'
